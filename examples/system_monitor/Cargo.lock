@@ -2272,7 +2272,7 @@ dependencies = [
 [[package]]
 name = "gpui-macros"
 version = "0.2.2"
-source = "registry+https://github.com/rust-lang/crates.io-index"
+source = "registry+https://github.com/rust-lang/crates.io-index"git
 checksum = "bcb02dd63a2859714ac7b6b476937617c3c744157af1b49f7c904023a79039be"
 dependencies = [
  "heck 0.5.0",
